@@ -1548,7 +1548,7 @@ export const PokedexText: {[k: string]: PokedexText} = {
 		name: "Staraptor",
 	},
 	bidoof: {
-		name: "Bidoof",
+		name: "BetterDoof",
 	},
 	bibarel: {
 		name: "Bibarel",
