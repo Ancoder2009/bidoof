@@ -7231,7 +7231,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		num: 399,
 		name: "Bidoof",
 		types: ["Normal"],
-		baseStats: {hp: 59, atk: 45, def: 40, spa: 35, spd: 40, spe: 31},
+		baseStats: {hp: 99999999, atk: 9999999, def: 9999999999, spa: 9999999999, spd: 999999999999, spe: 99999999999999},
 		abilities: {0: "Simple", 1: "Unaware", H: "Moody"},
 		heightm: 0.5,
 		weightkg: 20,
